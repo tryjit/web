@@ -1,26 +1,22 @@
-# web
+# Jit web
 
-## Project setup
-```
-npm install
-```
+## 개발중인 페이지
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+로그인 페이지
+회원가입 페이지
 ```
 
-### Compiles and minifies for production
+## 완성된 페이지
+
 ```
-npm run build
+-
 ```
 
-### Run your tests
-```
-npm run test
-```
+## 수정된 사항
 
-### Lints and fixes files
+###2018 년 11 월 16 일
+
 ```
-npm run lint
+First Commit
 ```

@@ -15,9 +15,11 @@
           ></v-text-field>
           <v-text-field
           label="Password"
+          type="Password"
           ></v-text-field>
           <v-text-field
           label="Password"
+          type="Password"
           ></v-text-field>
         </v-card-text>
         <v-divider></v-divider>
