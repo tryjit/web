@@ -32,5 +32,5 @@ Atom, Git, Github
 ### 2018 년 11 월 16 일
 
 ```
-First Commit
+로그인, 회원가입 페이지 UI구성
 ```
