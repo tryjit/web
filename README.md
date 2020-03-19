@@ -4,14 +4,15 @@
 
 ### 프레임 워크
 
+#### 백엔드
+```
+Spring Framework
+Node.js
+```
+
+#### 프론트엔드
 ```
 Vue.js
-```
-
-### 툴
-
-```
-Atom, Git, Github
 ```
 
 ## 개발중인 페이지
